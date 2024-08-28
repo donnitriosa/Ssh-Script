@@ -60,4 +60,4 @@ ssh user@192.168.1.2
 In this example, the script will display the server list and prompt the user to choose a server. Based on the user's choice, it will execute the corresponding SSH command.
 
 ## Author
-Created by Donni Triosa (donni.triosa94@gmail.com)
+Created by [Donni Triosa](https://www.linkedin.com/in/donnitriosa/) (donni.triosa94@gmail.com)
