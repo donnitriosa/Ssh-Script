@@ -13,7 +13,7 @@ fi
 
 main=$1
 # Directory containing the files
-directory=/path/to/your/ssh-script-directory"
+directory="/Volumes/Data_Drive_HD/Code/Shell/ssh-script"
 found=false
 
 # Loop through all files in the directory

@@ -54,8 +54,8 @@ server1 user@192.168.1.1
 server2 user@192.168.1.2
 
 # Commands
-ssh user@192.168.1.1
-ssh user@192.168.1.2
+user@192.168.1.1
+user@192.168.1.2
 ```
 In this example, the script will display the server list and prompt the user to choose a server. Based on the user's choice, it will execute the corresponding SSH command.
 
